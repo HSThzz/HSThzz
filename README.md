@@ -29,8 +29,8 @@ Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagoesmerio&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoesmerio&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HSThzz&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSThzz&layout=compact&theme=tokyonight" />
 </p>
 
 ---
