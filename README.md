@@ -14,6 +14,25 @@
 
 Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **Python**, automação de processos e **desenvolvimento de APIs RESTful**. Tenho experiência prática com bancos de dados relacionais, controle de versão com Git e GitHub, e criação de interfaces gráficas com JavaFX.
 
+
+## 🚀 Projetos em destaque
+
+- 🧠 **Automação com Python (Machine Learning)**  
+  Aplicação que prevê o valor de uma pizza com base no diâmetro utilizando regressão linear com `scikit-learn`. Inclui visualização com `matplotlib` e interface com `streamlit`.  
+  🔗 [Acesse o projeto no GitHub](https://github.com/HSThzz/MachineLearning)
+
+- ☕ **Sistema Java com Spring Boot e JavaFX**  
+  API REST com Spring Boot para cadastro de dados, validações, integração com banco MySQL e interface gráfica desktop em JavaFX.
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagoesmerio&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoesmerio&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
  💻 Tecnologias e Ferramentas
@@ -44,26 +63,6 @@ Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
----
-
-## 🚀 Projetos em destaque
-
-- 🧠 **Automação com Python (Machine Learning)**  
-  Aplicação que prevê o valor de uma pizza com base no diâmetro utilizando regressão linear com `scikit-learn`. Inclui visualização com `matplotlib` e interface com `streamlit`.  
-  🔗 [Acesse o projeto no GitHub](https://github.com/HSThzz/MachineLearning)
-
-- ☕ **Sistema Java com Spring Boot e JavaFX**  
-  API REST com Spring Boot para cadastro de dados, validações, integração com banco MySQL e interface gráfica desktop em JavaFX.
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagoesmerio&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoesmerio&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📫 Contato
