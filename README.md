@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">👋 Olá! Eu sou o Thiago Esmerio</h1>
+<h1 align="center">👋 Olá! Eu sou o Thiago Esmério</h1>
 
 <p align="center">
 🎓 Estudante de Engenharia de Software (Unileste)<br>
