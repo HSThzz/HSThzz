@@ -36,7 +36,7 @@ Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **
 
 ---
 
- 💻 Tecnologias e Ferramentas
+ <!-- 💻 Tecnologias e Ferramentas -->
 
 <style>
   .icon-hover {
@@ -81,7 +81,7 @@ Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **
     <img class="icon-hover" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
----
+
 
 ## 📫 Contato
 
