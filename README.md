@@ -21,8 +21,9 @@ Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **
   Aplicação que prevê o valor de uma pizza com base no diâmetro utilizando regressão linear com `scikit-learn`. Inclui visualização com `matplotlib` e interface com `streamlit`.  
   🔗 [Acesse o projeto no GitHub](https://github.com/HSThzz/MachineLearning)
 
-- ☕ **Sistema Java com Spring Boot e JavaFX**  
-  API REST com Spring Boot para cadastro de dados, validações, integração com banco MySQL e interface gráfica desktop em JavaFX.
+- ☕ **Sistema Java de consumo de uma API de climatologia**  
+  API REST para recuperar as informações do clima do local desejado, como temperatura, pressão, velocidade do vento, entre outras.
+  🔗 [Acesse o projeto no GitHub](https://github.com/HSThzz/ProjetosJava/tree/main/InformacoesClimaticasTempoReal)
 
 ---
 
