@@ -21,9 +21,9 @@ Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **
   Aplicação que permite acessar diversas filtros de informações a respeito de filmes e séries, como busca de filmes pelo nome, busca dos filmes em cartaz, filmes em alta, entre outras buscas.  
   🔗 [Acesse o projeto no GitHub](https://github.com/HSThzz/SistemaConsultaFilmes)
 
-- ☕ **Sistema Java de consumo de uma API de climatologia**  
-  API REST para recuperar as informações do clima do local desejado, como temperatura, pressão, velocidade do vento, entre outras.
-  🔗 [Acesse o projeto no GitHub](https://github.com/HSThzz/ProjetosJava/tree/main/InformacoesClimaticasTempoReal)
+- ☕ **Resolução de Desafios Backend Junior com NestJS**  
+  Repositório com a resolução de diversos desafios que encontrei, originalmente em java, usando NestJS com TypeScript
+  🔗 [Acesse o projeto no GitHub](https://github.com/HSThzz/Desafios-Tecnicos-Backend)
 
 ---
 
