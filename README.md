@@ -29,10 +29,13 @@ Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github.com/HSThzz/HSThzz/blob/main/github-metrics.svg" />
+</p> -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=HSThzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats-three.vercel.app/?user=HSThzz&theme=tokyonight" />
 </p>
-
 ---
 
  <!-- 💻 Tecnologias e Ferramentas -->
