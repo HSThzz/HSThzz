@@ -17,7 +17,8 @@ jobs:
           template: classic
           base: header, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          config_theme: tokyonight # O segredo é o prefixo config_
+          # Removi o config_theme e theme daqui
+          # Adicionamos plugins específicos que você usa no seu backend
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
