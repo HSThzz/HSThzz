@@ -32,9 +32,9 @@ Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **
 <!-- <p align="center">
   <img width="100%" src="https://github.com/HSThzz/HSThzz/blob/main/github-metrics.svg" />
 </p> -->
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HSThzz&show_icons=true&theme=tokyonight&bg_color=0D1117&ring_color=7aa2f7&border_radius=10" />
-  <img height="170em" src="https://github-readme-streak-stats.vercel.app/?user=HSThzz&theme=tokyonight&background=0D1117&ring=7aa2f7&currStreakNum=7aa2f7&border_radius=10" />
+<p>
+  ![HSThzz Status](https://github-readme-stats.vercel.app/api?username=HSThzz&show_icons=true)
+  ![HSThzz Status](https://github-readme-stats.vercel.app/api?username=HSThzz&show_icons=true)
 </p>
 ---
 
