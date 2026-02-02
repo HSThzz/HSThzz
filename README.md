@@ -34,7 +34,7 @@ Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **
 </p> -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HSThzz&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HSThzz&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HSThzz&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 ---
 
