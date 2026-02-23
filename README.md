@@ -87,8 +87,14 @@ Atualmente me desenvolvo como programador com foco em **Java (Spring Boot)**, **
 
 ## 📫 Contato
 
-📧 thiagoesmerio123@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/thiagoesmerio)
+<p align="left">
+<a href="[https://www.linkedin.com/in/raissacvf](https://www.linkedin.com/in/thiagoesmerio)/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="thiagoesmerio123@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
 ---
 
