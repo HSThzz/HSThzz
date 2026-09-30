@@ -50,8 +50,8 @@ Features include:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HSThzz&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HSThzz&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,prs,issues" />
+  <img src="https://raw.githubusercontent.com/HSThzz/HSThzz/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/HSThzz/HSThzz/main/profile-summary-card-output/2077/3-stats.svg" alt="Stats" />
 </p>
 
 ---
