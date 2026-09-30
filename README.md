@@ -33,19 +33,6 @@ The goal of this project is to help developers start backend projects quickly wi
 
 ---
 
-### 🎬 Movie & TV Series Search System (Java)
-
-Java application that consumes the **TMDB API** to retrieve movie and TV series data.
-
-Features include:
-- Search movies by name
-- Discover trending movies
-- List movies currently in theaters
-- Filter and explore media information
-
-🔗 https://github.com/HSThzz/SistemaConsultaFilmes
-
----
 
 ## 📊 GitHub Statistics
 
