@@ -23,9 +23,21 @@ Currently, I work with technologies such as **Node.js, GraphQL, TypeScript, rela
 
 ## 🚀 Featured Projects
 
+### 🎟️ Vibra — Event & Ticketing Platform
+
+A full-stack, production-ready ticketing and event management platform actively powering real-world events. Built for high performance, reliability, and smooth transaction flows during peak traffic.
+
+* **Highlights:** Secure payment processing, real-time ticket validation, and event management dashboard.
+* **Stack:** React, Node.js, TypeScript, PostgreSQL, Redis.
+* **Status:** In production 🚀
+
+🔗 [Visit Vibra Live](https://vibraevents.com.br/)
+
+---
+
 ### ☕ BackEnd-Factory (Open Source)
 
-🚀 A CLI tool designed to scaffold **production-ready Node.js backends** using **TypeScript, DDD and Clean Architecture**.
+🚀 A CLI tool designed to scaffold **production-ready Node.js backends** using **TypeScript, DDD, and Clean Architecture**.
 
 The goal of this project is to help developers start backend projects quickly with a well-structured architecture and best practices already in place.
 
